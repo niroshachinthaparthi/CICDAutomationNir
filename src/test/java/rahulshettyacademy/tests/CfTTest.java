@@ -10,7 +10,7 @@ public class CfTTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//test cicd update
 		
 		WebDriverManager.chromedriver().setup();  // no hardcoded version
 		WebDriver driver = new ChromeDriver();
